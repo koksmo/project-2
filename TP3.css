@@ -1,0 +1,90 @@
+
+
+h1{
+	text-align:center;
+	
+}
+
+form{
+	
+	margin-left:39%;
+	
+	width:650px;
+   
+	
+	
+}
+
+fieldset{
+	
+	width: 600px;
+	border: 1px solid white;
+	
+	border:1px solid wheit;
+	 	
+}
+input[name="cfmpassword"]{
+	margin-left:25px;
+	padding:12px;
+	
+	
+}
+
+input[name="password"]{
+	margin-left:110px;
+	padding:10px;
+	
+}
+
+input[name="email"]{
+	margin-left:157px;
+	padding:10px;
+	
+}
+
+input[name="prenom"]{
+	margin-left:145px;
+	padding:10px;
+	
+}
+
+input[name="nom"]{
+	margin-left:162px;
+	padding:10px;
+	
+}
+
+input[type="submit"]{
+	margin-left:200px;
+	border-radius: 2px;
+	background-color:#4ba6ff;
+	padding:10px;
+	width:150px;
+	border: none;
+	color: white;
+	font-weight:bold;
+	
+}
+
+legend{
+	
+	color: white;
+	font-size:25px;
+	font-weight:bold;
+	background-color:#4ba6ff;
+	border-radius: 2px;
+	padding:10px;
+	width:150px;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+

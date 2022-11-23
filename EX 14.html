@@ -1,0 +1,100 @@
+<!doctype HTML>
+<head lang="en">
+       <meta charset=" utf-8">
+		<meta name ="descripion"  content =" the wibsit for everything"/>
+		<meta http-equiv="refresh" content="10000">
+		<title>my ferst websit</title>
+
+		
+		<style>
+		
+#A{
+	background-color:red;
+	border:2px solid black;
+	width:200px;
+	height:500px;
+
+	}
+	
+#B{
+	
+	background-color:green;
+	width:200px;
+	height:500px;
+	border:2px solid black;
+
+	}
+	
+#C{
+	
+	background-color:blue;
+	width:200px;
+	height:500px;
+	border:2px solid black;
+
+	}
+	
+#D{
+	background-color:yellow;
+	width:200px;
+	height:500px;
+	border:2px solid black;
+	
+	}
+	
+	#grid{
+	display:grid;
+ grid-template-columns: repeat(4, 1fr);
+}
+	
+ @media screen and (max-width: 1024px)
+
+{
+#grid{
+ grid-template-columns: repeat(2, 1fr);
+}
+ h2{
+ color: red;
+}
+}
+
+@media screen and (max-width: 6000px)
+
+{
+#grid{
+grid-template-columnst repeat(1, lfr);
+}
+ h2{
+
+color: blue;
+}
+#grid{
+
+ }
+ }
+
+	
+	
+		</style>
+		
+</head>
+
+<body>
+
+<h2>hello</h2>
+<div id="grid">
+<div id="A"></div>
+<div id="B"></div>
+<div id="C"></div>
+<div id="D"></div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+

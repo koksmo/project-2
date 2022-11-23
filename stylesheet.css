@@ -1,0 +1,43 @@
+#loop{
+	border:2px solid DarkCyan;
+	margin:100px;
+	padding:0px 50px 0px 50px;
+}
+
+h1{
+color:DarkCyan; 
+
+}
+
+ h2{
+	color:DarkCyan; 
+	background-color:Gainsboro;
+}
+img{
+	float: right;
+	
+}
+.bol{
+	
+	font-weight:bold;	
+}
+
+.des{
+	display: table-cell;
+	}
+.formation{
+	
+}
+.year{
+	padding-right: 55px;
+	float:left;
+	
+}
+.des{
+	
+	
+}
+#heid{
+	visibility: hidden;
+}
+
